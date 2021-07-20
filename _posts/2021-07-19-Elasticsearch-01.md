@@ -2,7 +2,7 @@
 layout:     post
 title:      Elasticsearch
 subtitle:   实战知识
-date:       2021-07-16
+date:       2021-07-19
 author:     chital
 header-img: img/post-bg-alibaba.jpg
 catalog: true
@@ -94,7 +94,12 @@ tags:
 * number_of_shards值与索引有关，而不是与整个群集有关。此值指定每个索引的分片数（不是群集中的主分片总数）；<br>
 
 ***
-# 
+# 开始使用Elasticsearch
+
+* REST：通过URL定位资源，用HTTP动词（GET，POST，PUT，DELETE，PATCH）描述操作；
 
 ***
 ### 
+
+***
+>****<br>
